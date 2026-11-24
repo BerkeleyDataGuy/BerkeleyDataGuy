@@ -53,6 +53,4 @@
 </picture>
 
 </div>
-
-#### https://kwunchen.com/
 </div>
